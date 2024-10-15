@@ -1,0 +1,27 @@
+@media(width <=750px) {
+    .pokedevs {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .card-pokedev {
+        max-width: 320px;
+    }
+
+    .listagem {
+        width: 360px;
+    }
+
+    .listagem .pokedev {
+        max-width: 45%;
+        border-radius: 8px;
+    }
+
+    .listagem ul {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        justify-content: center;
+    }
+}
