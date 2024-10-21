@@ -21,7 +21,9 @@ In this project, we created a list of fictional characters inspired by the Poké
 ## How to Run the Project
 
 1. Clone this repository:
+
     ```bash
     git clone https://github.com/viniciusmarx/pokedevs.git
     ```
+
 2. Open the index.html file in your browser.
